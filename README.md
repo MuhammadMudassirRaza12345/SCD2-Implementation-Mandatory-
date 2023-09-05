@@ -7,11 +7,13 @@ You're required to complete implementation of the same on Product Table and shar
 
 Try the Following Cases:
 Insert a New Product and Run Script then Take screenshot of New Record in SCD2_Product_DIM
-Update any ProductLine for any Product ID of your Choice and demonstrate Change record Captured in SCD2_Product_DIM ```
+Update any ProductLine for any Product ID of your Choice and demonstrate Change record Captured in SCD2_Product_DIM
+```
 
-`sample code :ClassicModel_Customer_SCD2.ipynb
+`sample code :ClassicModel_Customer_SCD2.ipynb`
+
+<img src="CustomerDIM_Config.PNG">
 
 
-![watchvideo}('https://www.youtube.com/watch?v=Oar-M4GeF8U')
+`watchvideo`[click here]('https://www.youtube.com/watch?v=Oar-M4GeF8U')
 
-<img src="">
